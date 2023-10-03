@@ -1,2 +1,2 @@
 # tonwiki
-The Open Network Wikipedia: the chronicle described by the Community
+The Open Network Wikipedia: chronicle described by the Community
