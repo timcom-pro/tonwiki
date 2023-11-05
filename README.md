@@ -27,6 +27,8 @@ Authors, Translators, Editors, Administrators from TON Community
 
 **Estimated number of language sections**:
 10-25. Each language section will be implemented on a separate subdomain like *en.tonwiki.space* with language switching in the left side menu
+![ML1](https://github.com/timcom-pro/tonwiki/assets/115406028/347f659e-e330-4f55-a8a3-b38df815b7c3)
+
 
 **Estimated average number of new articles per month during 1st year**:
 Depends on the activity of authors and the budget allocated. Approximately up to 100 or more
