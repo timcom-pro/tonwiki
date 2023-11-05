@@ -67,7 +67,7 @@ The MediaWiki engine is one of the most popular. There is a detailed [manual](ht
 **Jury Work**:
 The Jury (members) is an independent team (8-12 people), recruited once every 3 months by the current members of the Jury (originally, the Initial Team), which evaluates the content with an independent eye. 
 
-During the Voting period, the Jury evaluates the submissions for rewards, giving scores from 1 to 10 for each submission. As a result of the voting, an average score is derived and the payout is adjusted.
+During the Voting period, the Jury analyzes and evaluates all the submissions for rewards, giving scores from 1 to 10 for each submission. As a result of the voting, an average score is derived and the payout is adjusted.
 
 Example:
 Average score of 10.0 – the Author received 100% of the requested rewards. 
