@@ -71,7 +71,7 @@ Example:
 Average score of 10.0 – the Author received 100% of the requested rewards. 
 Average score of 7.0 – the Author received 70% of the requested rewards.
 
-Any member of the community whose application is approved by the current Jury can become a Jury member (voting is conducted by on-chain SMV method, e.g. using TON.VOTE service).
+Any member of the community whose application is approved by the current Jury can become a Jury member (voting is conducted by on-chain SMV method, e.g. using [TON.VOTE](https://ton.vote/) service).
 
 There is a rotation of Jury members. Rewards are also provided for the Jury. The Jury deliberates in a private Telegram chat.
 
