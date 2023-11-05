@@ -1,5 +1,5 @@
 # tonwiki
-The Open Network Wikipedia: chronicle described by the Community
+# The Open Network Wikipedia: chronicle described by the Community
 
 https://tonwiki.space/index.php?title=Main_page
 
