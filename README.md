@@ -6,7 +6,7 @@ https://tonwiki.space/index.php?title=Main_page
 Product:
 The Open Network Wikipedia (TON Wiki) 
 
-TON Wiki Product Card: https://docs.google.com/document/d/1QOMMC-NjbotdSrnzUb_yTBohy2CXbCnKmAQCWpnXWs0/edit?usp=sharing
+TON Wiki Product Card: https://docs.google.com/document/d/1QOMMC-NjbotdSrnzUb_yTBohy2CXbCnKmAQCWpnXWs0/edit?usp=sharing [EN/RU]
 
 Role:
 A community-created encyclopedia of the TON Ecosystem
