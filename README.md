@@ -47,7 +47,8 @@ A free Media Wiki engine on which authors self-host content. Wiki Info table whi
 - Table of results of quality control checks on articles and translations
 - Table of rates
 - Table of requests
-- Table of payments 
+- Table of payments
+- 
 Onchain voting system, Wiki chat system in Telegram, Guides
 
 Mechanics of basic processes:
