@@ -1,16 +1,16 @@
 # The Open Network Wikipedia: chronicle described by the Community
 
-Product:
+**Product**:
 The Open Network Wikipedia (TON Wiki) 
 [ENGLISH](https://tonwiki.space/index.php?title=Main_page)
 [RUSSIAN](https://tonwiki.space/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 
 [TON Wiki Product Card](https://docs.google.com/document/d/1QOMMC-NjbotdSrnzUb_yTBohy2CXbCnKmAQCWpnXWs0/edit?usp=sharing)
 
-Role:
+**Role**:
 A community-created encyclopedia of the TON Ecosystem
 
-Purpose:
+**Purpose**:
 Up-to-date relevant content about each component in the TON ecosystem on the community-driven platform
 
 Product Performance:
@@ -26,7 +26,7 @@ Active Participants:
 Authors, Translators, Editors, Administrators from TON Community
 
 Estimated number of language sections:
-10-25. Each language section will be implemented on a separate subdomain like en.tonwiki.space with language switching in the left side menu
+10-25. Each language section will be implemented on a separate subdomain like *en.tonwiki.space* with language switching in the left side menu
 
 Estimated average number of new articles per month during 1st year:
 Depends on the activity of authors and the budget allocated. Approximately up to 100 or more
