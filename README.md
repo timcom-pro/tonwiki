@@ -60,7 +60,7 @@ At the end of the reporting period, Authors, Translators and Editors submit requ
 Each submission is evaluated by a decentralized Jury, which is selected on a regular basis from among active community members based on their applications. Based on the results of the review, the Author/Translator/Editor receives full or partial payment for the completed work.
 
 **How can authors and translators learn to use the MediaWiki engine?**
-The MediaWiki engine is one of the most popular. There is a detailed manual for authors. In addition, there will be a guide in the Wiki Telegram channel. 
+The MediaWiki engine is one of the most popular. There is a detailed [manual]9https://www.mediawiki.org/wiki/Help:Editing_pages) for authors. In addition, there will be a guide in the Wiki Telegram channel. 
 
 **Maximum number of texts that an author (translator) can take on at one time**: 3
 
