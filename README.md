@@ -1,9 +1,11 @@
 # tonwiki
 The Open Network Wikipedia: chronicle described by the Community
+
 https://tonwiki.space/index.php?title=Main_page
 
 Product:
-The Open Network Wikipedia (TON Wiki) ENG
+The Open Network Wikipedia (TON Wiki) 
+
 TON Wiki Product Card: https://docs.google.com/document/d/1QOMMC-NjbotdSrnzUb_yTBohy2CXbCnKmAQCWpnXWs0/edit?usp=sharing
 
 Role:
