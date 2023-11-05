@@ -4,6 +4,7 @@ https://tonwiki.space/index.php?title=Main_page
 
 Product:
 The Open Network Wikipedia (TON Wiki) ENG
+TON Wiki Product Card: https://docs.google.com/document/d/1QOMMC-NjbotdSrnzUb_yTBohy2CXbCnKmAQCWpnXWs0/edit?usp=sharing
 
 Role:
 A community-created encyclopedia of the TON Ecosystem
@@ -31,6 +32,8 @@ Depends on the activity of authors and the budget allocated. Approximately up to
 
 Budget:
 The budget is allocated from the gyver at the request of the team. Donations from the community are possible. Expenses - according to the established rates
+
+TON Wiki Rates: https://docs.google.com/spreadsheets/d/1P_RuF04shL4G_YxzlbcDsNNE4yFqNm_NzzjfoTEHxnM/edit#gid=0
 
 Budget Accounting:
 Providing monthly reporting for every $/Toncoin spent
