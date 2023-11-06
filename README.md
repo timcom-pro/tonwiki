@@ -99,8 +99,9 @@ Preferably, through the multisig
 2) Community engagement (non-techies can participate)
 3) Encourages new users to join the community and the ecosystem
 4) Support for chronicling TON, safety of all important information
-5) Experiment with organizing a decentralized structure of contributors within the community
-6) Wiki makes the idea of the ecosystem more weighty for internal and external users
+5) Wiki makes the idea of the ecosystem more weighty for internal and external users
+6) Experiment with organizing a decentralized structure of contributors within the community
+
 
 
 
