@@ -25,6 +25,12 @@ Self-managed system with its own decision-making and budget management structure
 **Active Participants**:
 Authors, Translators, Editors, Administrators from TON Community
 
+**Milestones**
+1) Introductory. November 15 - December 31, 2023 (setting up tools, community involvement, writing the first 60-80 texts, jury voting test)
+2) Intensive. January 1 - December 31, 2024 (community expansion, active writing of texts on existing components of the ecosystem - up to 1000 texts)
+3) Mature. Starting from 2025. Writing texts about newly emerging components. By this time Wiki will gain weight and popularity and will be able to become a more financially independent product
+
+
 **Estimated number of language sections**:
 10-25. Each language section will be implemented on a separate subdomain like *en.tonwiki.space* with language switching in the left side menu
 ![ML1](https://github.com/timcom-pro/tonwiki/assets/115406028/347f659e-e330-4f55-a8a3-b38df815b7c3)
