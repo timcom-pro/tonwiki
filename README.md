@@ -83,8 +83,8 @@ The Jury (members) is an independent team (8-12 people), recruited once every 3 
 During the Voting period, the Jury analyzes and evaluates all the submissions for rewards, giving scores from 1 to 10 for each submission. As a result of the voting, an average score is derived and the payout is adjusted.
 
 Example:
-Average score of 10.0 – the Author received 100% of the requested rewards. 
-Average score of 7.0 – the Author received 70% of the requested rewards.
+Average score of 10.0 – the Author received 100% of the requested reward. 
+Average score of 7.0 – the Author received 70% of the requested reward.
 
 Any member of the community whose application is approved by the current Jury can become a Jury member (voting is conducted by on-chain SMV method, e.g. using [TON.VOTE](https://ton.vote/) service).
 
