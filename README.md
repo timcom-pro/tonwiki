@@ -46,7 +46,7 @@ The budget is allocated from the gyver at the request of the team. Donations fro
 Providing monthly reporting for every $/Toncoin spent
 
 **Technical Base**:
-A free Media Wiki engine on which authors self-host content. Wiki Info table which includes: 
+A free Media Wiki engine on which authors self-host content with integrated Google Analytics system. Wiki Info table which includes: 
 - Table of author reservations for new article topics
 - Table of articles approved by editors for translation
 - Table of results of quality control checks on articles and translations
