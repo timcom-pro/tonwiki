@@ -14,7 +14,13 @@ A community-created encyclopedia of the TON Ecosystem
 Up-to-date relevant content about each component in the TON ecosystem on the community-driven platform
 
 **Product Performance**:
-Introduce newcomers of the TON ecosystem and the Web3 world to TON and its capabilities, attract new users to the ecosystem
+Introduce newcomers to the TON ecosystem and the Web3 world to TON and its capabilities, attract new users to the ecosystem
+
+**Tagret users**
+1) Active participants (representatives of the TON Community who can write, native speakers, editors, administrators)
+2) Consumers: newcomers to the world of Web 3. Those who have heard something about TON and blockchain in general, current users of the TON ecosystem
+3) TON investors, sponsors, junior developers
+
 
 **Model**:
 Self-managed system with its own decision-making and budget management structure
@@ -93,8 +99,9 @@ Preferably, through the multisig
 1) Regular original, updated content in different languages
 2) Community engagement (non-techies can participate)
 3) Encourages new users to join the community and the ecosystem
-4) Support for chronicling TON
+4) Support for chronicling TON, safety of all important information
 5) Experiment with organizing a decentralized structure of contributors within the community
+6) Wiki makes the idea of the ecosystem more weighty for users from inside and outside
 
 
 
