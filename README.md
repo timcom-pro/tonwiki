@@ -21,7 +21,6 @@ Introduce newcomers to the TON ecosystem and the Web3 world to TON and its capab
 2) Consumers: newcomers to the world of Web 3. Those who have heard something about TON and blockchain in general, current users of the TON ecosystem
 3) TON investors, sponsors, junior developers
 
-
 **Model**:
 Self-managed system with its own decision-making and budget management structure
 
