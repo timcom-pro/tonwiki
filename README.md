@@ -100,7 +100,7 @@ Preferably, through the multisig
 3) Encourages new users to join the community and the ecosystem
 4) Support for chronicling TON, safety of all important information
 5) Experiment with organizing a decentralized structure of contributors within the community
-6) Wiki makes the idea of the ecosystem more weighty for users from inside and outside
+6) Wiki makes the idea of the ecosystem more weighty for inside and outside users
 
 
 
