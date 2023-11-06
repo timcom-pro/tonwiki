@@ -42,7 +42,7 @@ Authors, Translators, Editors, Administrators from TON Community
 
 
 **Estimated average number of new articles per month during 1st year**:
-Depends on the activity of authors and the budget allocated. Approximately up to 100 
+Depends on the activity of authors and the budget allocated. Approximately up to 100 monthly
 
 **Budget**:
 The budget is allocated from the gyver at the request of the team. Donations from the community are possible. Expenses - according to the [TON Wiki Rates](https://docs.google.com/spreadsheets/d/1P_RuF04shL4G_YxzlbcDsNNE4yFqNm_NzzjfoTEHxnM/edit#gid=0)
