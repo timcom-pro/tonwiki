@@ -7,7 +7,7 @@ The Open Network Wikipedia (TON Wiki)
 
 **Please, join our [Public Telegram Group](https://t.me/tonwiki_en)**  
 
-[TON Wiki Product Card](https://docs.google.com/document/d/1QOMMC-NjbotdSrnzUb_yTBohy2CXbCnKmAQCWpnXWs0/edit?usp=sharing)
+**[TON Wiki Product Card](https://docs.google.com/document/d/1QOMMC-NjbotdSrnzUb_yTBohy2CXbCnKmAQCWpnXWs0/edit?usp=sharing)**
 
 **Role**:
 A community-created encyclopedia of the TON Ecosystem
