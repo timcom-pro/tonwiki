@@ -31,7 +31,7 @@ Self-managed system with its own decision-making and budget management structure
 Authors, Translators, Editors, Administrators from TON Community
 
 **Milestones**
-1) Introductory. November 15 - December 31, 2023 (setting up tools, community involvement, writing the first 60-80 texts, jury voting test)
+1) Introductory. November 15 - December 31, 2023 (setting up tools, community involvement, writing the first 60+ texts, jury voting test)
 2) Intensive. January 1 - December 31, 2024 (community expansion, active writing of texts on existing components of the ecosystem - approximately up to 1000 texts)
 3) Mature. Starting from 2025. Writing texts about newly emerging components. By this time Wiki will gain weight and popularity and will be able to become a more financially independent product
 
@@ -42,13 +42,13 @@ Authors, Translators, Editors, Administrators from TON Community
 
 
 **Estimated average number of new articles per month during 1st year**:
-Depends on the activity of authors and the budget allocated. Approximately up to 100 or more
+Depends on the activity of authors and the budget allocated. Approximately up to 100 
 
 **Budget**:
 The budget is allocated from the gyver at the request of the team. Donations from the community are possible. Expenses - according to the [TON Wiki Rates](https://docs.google.com/spreadsheets/d/1P_RuF04shL4G_YxzlbcDsNNE4yFqNm_NzzjfoTEHxnM/edit#gid=0)
 
 **Budget Accounting**:
-Providing monthly reporting for every $/Toncoin spent
+Providing monthly reports to the community for every $/Toncoin spent 
 
 **Technical Base**:
 A free Media Wiki engine on which authors self-host content with integrated Google Analytics system. Wiki Info table which includes: 
