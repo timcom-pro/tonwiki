@@ -93,7 +93,7 @@ There is a rotation of Jury members. Rewards are also provided for the Jury. The
 **Voting Period**:
 From the 1st to the 10th day of the calendar month for the previous calendar month. In this period, the Jury votes on submissions and rewards are transferred.
 
-**Signing transactions by members**:
+**Signing transactions by jury members**:
 Preferably, through the multisig
 
 **TON Wiki Value for the TON Ecosystem**
