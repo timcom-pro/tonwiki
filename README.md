@@ -3,7 +3,7 @@
 **Product**:
 The Open Network Wikipedia (TON Wiki) 
 **[ENGLISH](https://tonwiki.space/index.php?title=The_Open_Network)**
-**[RUSSIAN](https://tonwiki.space/index.php?title=The_Open_Network_(TON)**
+**[RUSSIAN](https://tonwiki.space/index.php?title=The_Open_Network_(TON))**
 
 **Please, join our [Public Telegram Group](https://t.me/tonwiki_en)**  
 
